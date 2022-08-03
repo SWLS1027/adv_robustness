@@ -390,7 +390,7 @@ eval_checkpoint_type = 'best'
 NUM_WORKERS = 2
 expid_time=datetime.now().strftime("%Y-%m-%d---%H:%M:%S")
 expid = f"experiment1_std_train_lr==1e-5_batch==16_train_layer==all_layers_time=={expid_time}"
-exp_2_id = expid
+exp_3_id = expid
 seed = 42
 
 # Ablation
